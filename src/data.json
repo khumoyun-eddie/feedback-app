@@ -1,0 +1,261 @@
+{
+  "feedbacks": {
+    "-N5dvcZPo8mOifAaVhQJ": {
+      "category": "feature",
+      "comments": [
+        {
+          "content": "Much easier to get answers from devs who can relate, since they've either finished the challenge themselves or are in the middle of it.",
+          "id": 1,
+          "replies": [
+            {
+              "content": "It's easier to say than done",
+              "id": 1,
+              "replyingTo": "soccerviewer8",
+              "user": {
+                "image": "/assets/user-images/default.jpg",
+                "name": "Mukhammadali",
+                "username": "mukhammadalime"
+              }
+            }
+          ],
+          "user": {
+            "image": "/assets/user-images/image-george.jpg",
+            "name": "George Partridge",
+            "username": "soccerviewer8"
+          }
+        }
+      ],
+      "description": "Challenge-specific Q&A would make for easy reference.",
+      "status": "suggestion",
+      "title": "Q&A within the challenge hubs",
+      "upvotes": 65
+    },
+    "-N5dvjzMlblRq1PjFk3e": {
+      "category": "enhancement",
+      "comments": [
+        {
+          "content": "Right now, there is no ability to add images while giving feedback which isn't ideal because I have to use another app to show what I mean",
+          "id": 1,
+          "replies": [
+            {
+              "content": "Very good",
+              "id": 1,
+              "replyingTo": "warlikeduke",
+              "user": {
+                "image": "/assets/user-images/default.jpg",
+                "name": "Mukhammadali",
+                "username": "mukhammadalime"
+              }
+            }
+          ],
+          "user": {
+            "image": "/assets/user-images/image-javier.jpg",
+            "name": "Javier Pollard",
+            "username": "warlikeduke"
+          }
+        },
+        {
+          "content": "Yes I'd like to see this as well. Sometimes I want to add a short video or gif to explain the site's behavior..",
+          "id": 2,
+          "user": {
+            "image": "/assets/user-images/image-roxanne.jpg",
+            "name": "Roxanne Travis",
+            "username": "peppersprime32"
+          }
+        }
+      ],
+      "description": "Images and screencasts can enhance comments on solutions.",
+      "status": "suggestion",
+      "title": "Add image/video upload to feedback",
+      "upvotes": 51
+    },
+    "-N5dvpCrm6sEE0a63V9G": {
+      "category": "feature",
+      "comments": [
+        {
+          "content": "I also want to be notified when devs I follow submit projects on FEM. Is in-app notification also in the pipeline?",
+          "id": 1,
+          "replies": [
+            {
+              "content": "Bumping this. It would be good to have a tab with a feed of people I follow so it's easy to see what challenges they've done lately. I learn a lot by reading good developers' code.",
+              "id": 1,
+              "replyingTo": "arlen_the_marlin",
+              "user": {
+                "image": "/assets/user-images/image-zena.jpg",
+                "name": "Zena Kelley",
+                "username": "velvetround"
+              }
+            }
+          ],
+          "user": {
+            "image": "/assets/user-images/image-victoria.jpg",
+            "name": "Victoria Mejia",
+            "username": "arlen_the_marlin"
+          }
+        },
+        {
+          "content": "I've been saving the profile URLs of a few people and I check what they've been doing from time to time. Being able to follow them solves that",
+          "id": 2,
+          "user": {
+            "image": "/assets/user-images/image-jackson.jpg",
+            "name": "Jackson Barker",
+            "username": "countryspirit"
+          }
+        }
+      ],
+      "description": "Stay updated on comments and solutions other people post.",
+      "status": "suggestion",
+      "title": "Ability to follow others",
+      "upvotes": 42
+    },
+    "-N5dvtt_tKBzPkeedEee": {
+      "category": "ux",
+      "comments": [
+        {
+          "content": "Yeah. I also wanted to say this. Thanks!",
+          "id": 1,
+          "user": {
+            "image": "/assets/user-images/default.jpg",
+            "name": "Mukhammadali",
+            "username": "mukhammadalime"
+          }
+        }
+      ],
+      "description": "Challenge preview images are missing when you apply a filter.",
+      "id": "-N5dvtt_tKBzPkeedEee",
+      "status": "live",
+      "title": "Preview images not loading",
+      "upvotes": 3
+    },
+    "-N5dw-zh8rQKiJFFu8s8": {
+      "category": "feature",
+      "comments": [
+        {
+          "content": "Having a path through the challenges that I could follow would be brilliant! Sometimes I'm not sure which challenge would be the best next step to take. So this would help me navigate through them!",
+          "id": 1,
+          "replies": [
+            {
+              "content": "hello",
+              "id": 1,
+              "replyingTo": "soccerviewer8",
+              "user": {
+                "image": "/assets/user-images/default.jpg",
+                "name": "Mukhammadali",
+                "username": "mukhammadalime"
+              }
+            },
+            {
+              "content": "Very good",
+              "id": 2,
+              "replyingTo": "mukhammadalime",
+              "user": {
+                "image": "/assets/user-images/default.jpg",
+                "name": "Mukhammadali",
+                "username": "mukhammadalime"
+              }
+            }
+          ],
+          "user": {
+            "image": "/assets/user-images/image-george.jpg",
+            "name": "George Partridge",
+            "username": "soccerviewer8"
+          }
+        },
+        {
+          "content": "rfvdr",
+          "id": 2,
+          "user": {
+            "image": "/assets/user-images/default.jpg",
+            "name": "Mukhammadali",
+            "username": "mukhammadalime"
+          }
+        },
+        {
+          "content": "Nega bu boshqacha ishlayapti",
+          "id": 3,
+          "user": {
+            "image": "/assets/user-images/default.jpg",
+            "name": "Mukhammadali",
+            "username": "mukhammadalime"
+          }
+        },
+        {
+          "content": "Ismimga Mukhammadali yozib qo'yibdi bu defoultmi deyman",
+          "id": 4,
+          "user": {
+            "image": "/assets/user-images/default.jpg",
+            "name": "Mukhammadali",
+            "username": "mukhammadalime"
+          }
+        }
+      ],
+      "description": "Sequenced projects for different goals to help people improve.",
+      "status": "planned",
+      "title": "Learning paths",
+      "upvotes": 28
+    },
+    "-N5dw3Bi1jI5_uH1O6vH": {
+      "category": "feature",
+      "comments": [
+        {
+          "content": "I haven't built a portfolio site yet, so this would be really helpful. Might it also be possible to choose layout and colour themes?!",
+          "id": 1,
+          "user": {
+            "image": "/assets/user-images/image-ryan.jpg",
+            "name": "Ryan Welles",
+            "username": "voyager.344"
+          }
+        },
+        {
+          "content": "dnmsbjhbka",
+          "id": 2,
+          "user": {
+            "image": "/assets/user-images/default.jpg",
+            "name": "Mukhammadali",
+            "username": "mukhammadalime"
+          }
+        }
+      ],
+      "description": "Add ability to create professional looking portfolio from profile.",
+      "status": "in-progress",
+      "title": "One-click portfolio generation",
+      "upvotes": 62
+    },
+    "-N5dw5hl7Os0CphGMBV0": {
+      "category": "feature",
+      "comments": [
+        {
+          "content": "This would be great! At the moment, I'm just starting challenges in order to save them. But this means the My Challenges section is overflowing with projects and is hard to manage. Being able to bookmark challenges would be really helpful.",
+          "id": 1,
+          "user": {
+            "image": "/assets/user-images/image-suzanne.jpg",
+            "name": "Suzanne Chang",
+            "username": "upbeat1811"
+          }
+        }
+      ],
+      "description": "Be able to bookmark challenges to take later on.",
+      "status": "in-progress",
+      "title": "Bookmark challenges",
+      "upvotes": 31
+    },
+    "-N5dw9Rfiby7oxT4e_BY": {
+      "category": "bug",
+      "comments": [
+        {
+          "content": "Hi",
+          "id": 1,
+          "user": {
+            "image": "/assets/user-images/default.jpg",
+            "name": "Mukhammadali",
+            "username": "mukhammadalime"
+          }
+        }
+      ],
+      "description": "Screenshots of solutions with animations don't display correctly.",
+      "status": "planned",
+      "title": "Animated solution screenshots",
+      "upvotes": 9
+    }
+  }
+}

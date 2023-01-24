@@ -1,13 +1,65 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@400;600;700&display=swap");
+@layer base {
+  *,
+  *::after,
+  *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Jost", sans-serif;
+  }
+
+  body {
+    background-color: #f2f2f2;
+  }
+  h1 {
+    @apply text-xl;
+  }
+
+  h2 {
+    @apply text-lg;
+  }
+
+  h3 {
+    @apply text-h3;
+  }
+  h4{
+    @apply text-h4
+  }
+  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@layer components{
+  .btn-elements{
+    @apply text-xs font-semibold text-blue bg-gray-500 rounded-[10px] px-4 py-1
+  }
+  .btn-elements.active{
+    @apply text-white bg-blue
+  }
+  .btn-purple{
+    @apply bg-purple px-6 py-3 font-bold text-white text-h4 rounded-[10px]
+  }
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #dfe3fa;
+  border-radius: 4px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
