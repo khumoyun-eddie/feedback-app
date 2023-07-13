@@ -1,13 +1,14 @@
-import React from 'react'
-import FEEDS from '../../data.json'
+import React, { useContext, useState } from 'react'
+import { FeedBackContext } from '../../contexts/feedbackContext';
 import EmptyFeedBack from './EmptyFeedBack';
 import FeedBackItem from './FeedBackItem/FeedBackItem';
 const FeedBacks = () => {
-  const feeds = []//Object.entries(FEEDS.feedbacks)
+  const {sortedFeedbacks} = useContext(FeedBackContext)
+
   return (
     <>
-      {feeds.length!==0 ? (feeds.map((feed)=>(
-        <FeedBackItem key={feed[0]} feed={feed[1]} />
+      {sortedFeedbacks.length !== 0 ? (sortedFeedbacks.map((feed)=>(
+        <FeedBackItem key={feed.id} feed={feed} />
       ))) : (
        <EmptyFeedBack />
       )} 
